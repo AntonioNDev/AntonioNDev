@@ -10,11 +10,11 @@
    and keeping up with all the latest developments in the field. I'm also a strong collaborator and I really enjoy working with others to solve challenging problems.
  </p>
 
-<ol>
-  <li>🌍  I'm based in Macedonia</li>
-  <li>🖥️  See my portfolio at [not yet](http://hi)</li> 
-  <li>✉️  You can contact me at [antonionikoloski2003@gmail.com](mailto:antonionikoloski2003@gmail.com)</li
-</ol>
+<ul>
+  * 🌍  I'm based in Macedonia
+  * 🖥️  See my portfolio at [not yet](http://hi)
+  * ✉️  You can contact me at [antonionikoloski2003@gmail.com](mailto:antonionikoloski2003@gmail.com)
+</ul>
     
 <hr>
     
@@ -46,7 +46,7 @@
   
 <h4>Status</h4>
   
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=antoniondev&show_icons=true&locale=en&layout=compact" alt="antoniondev" /></p>
+<p  align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=antoniondev&show_icons=true&locale=en&layout=compact" alt="antoniondev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=antoniondev&show_icons=true&locale=en" alt="antoniondev" /></p>
+<p  align="center" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=antoniondev&show_icons=true&locale=en" alt="antoniondev" /></p>
 
