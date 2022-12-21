@@ -10,7 +10,7 @@
    and keeping up with all the latest developments in the field. I'm also a strong collaborator and I really enjoy working with others to solve challenging problems.
  </p>
 
-  * 🌍  I'm based in Macedonia
+  * 🌍  I'm based in Macedonia 
   * 🖥️  See my portfolio at [not yet](http://hi)
   * ✉️  You can contact me at [antonionikoloski2003@gmail.com](mailto:antonionikoloski2003@gmail.com)
     
