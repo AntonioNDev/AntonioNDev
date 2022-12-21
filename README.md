@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Antonio
+Hi ![]<a href="https://www.flaticon.com/free-animated-icons/code" title="code animated icons">Code animated icons created by Freepik - Flaticon</a>My name is Antonio
 =================================================================================================================================
 
 Computer Science student
