@@ -44,8 +44,8 @@
   
 <h4 align="center">Status</h4>
 
-<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=antoniondev&show_icons=true&locale=en"/> </a>
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=antoniondev&show_icons=true&locale=en&layout=compact" alt="antoniondev" /></p>
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/api?username=antoniondev&show_icons=true&locale=en"/> </a>
+<p align="center" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=antoniondev&show_icons=true&locale=en" alt="antoniondev" /></p></p>
 
 
 
