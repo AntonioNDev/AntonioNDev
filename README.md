@@ -40,6 +40,10 @@
 
 <p align="center"> <a href="https://www.linkedin.com/in/antonio010" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=antoniondev&show_icons=true&theme=dracula&cache_seconds=1000&locale=en&layout=compact" alt="antoniondev" /></p>
+<hr>
+   
+<h4 align="center">Status</h4>
+   
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=antoniondev&show_icons=true&theme=dracula&cache_seconds=1000&locale=en&layout=compact" alt="antoniondev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=antoniondev&show_icons=true&theme=dracula&cache_seconds=1000&locale=en" alt="antoniondev" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=antoniondev&show_icons=true&theme=dracula&cache_seconds=1000&locale=en" alt="antoniondev" /></p>
