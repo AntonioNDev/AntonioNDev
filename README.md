@@ -43,8 +43,8 @@
 <hr>
   
 <h4 align="center">Status</h4>
-   
-<p align="center" >&nbsp;<img align="center" src="https://github-readme-lac.vercel.app/api?username=antoniondev&show_icons=true&theme=onedark&locale=en" alt="antoniondev" /></p>
-<p align="center"><img align="center" src="https://github-readme-lac.vercel.app/api/top-langs?username=antoniondev&show_icons=true&theme=onedark&cache_seconds=1800&locale=en&layout=compact" alt="antoniondev" /></p>
 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=antoniondev&show_icons=true&theme=onedark&cache_seconds=1800&locale=en&layout=compact" alt="antoniondev" /></p>
+
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=antoniondev&show_icons=true&theme=onedark&locale=en" alt="antoniondev" /></p>
 
