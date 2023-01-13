@@ -44,6 +44,6 @@
   
 <h4 align="center">Status</h4>
 
-<p align="center"><img src="https://github-statusdds.vercel.app/api/top-langs?username=antoniondev&show_icons=true&theme=onedark&cache_seconds=1800&locale=en&layout=compact" alt="antoniondev" /></p>
+
 
 
