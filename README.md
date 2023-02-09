@@ -5,7 +5,7 @@
 
 <h4 align="center">About me</h4>
 <p align="center">
-   Hello, my name is Antonio. I am pursuing a degree in Computer Science and I have a strong passion for coding.
+   Hello, my name is Antonio. I am pursuing a degree in Computer Science and I love coding.
 </p>
 
   * 🌍  I'm based in Macedonia 
