@@ -5,7 +5,7 @@
   <p><em>St. Cyril and Methodius University, Skopje</em></p>
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/antonio010" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/antonio-nikoloski/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="mailto:antonionikoloski2003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="http://antoniondev.github.io/myPortfolio/"><img src="https://img.shields.io/badge/Portfolio-25292E?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   </p>
