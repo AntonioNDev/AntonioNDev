@@ -14,7 +14,7 @@
 ---
 
 ### 🧑‍💻 About Me
-I am a passionate developer and researcher entering my final year of Computer Science. My focus lies at the intersection of **High-Performance Computing** and **Data Science**. I thrive on exploring emerging technologies and solving complex computational problems.
+I am a passionate developer entering my final year of Computer Science. My focus lies at the intersection of **High-Performance Computing** and **Data Science**. I thrive on exploring emerging technologies and solving complex computational problems.
 
 * 🌍 Based in **Skopje, North Macedonia**[.
 * 🔬 Currently researching **CUDA-driven parallelization** for genomic mutation detection
