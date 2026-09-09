@@ -62,6 +62,19 @@ I am a passionate developer. My focus lies at the intersection of **High-Perform
   <img src="https://img.shields.io/badge/Russian-Conversational-25292E?style=flat-square" />
 </p>
 
+--- 
+
+### 📜 Certifications & Achievements
+
+<p align="left">
+  <a href="https://matlabacademy.mathworks.com/progress/share/certificate.html?id=b1b7507c-d4d1-4c36-bd88-6771577729e9&" target="_blank">
+    <img src="https://img.shields.io/badge/MATLAB_Onramp-MathWorks-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+  </a> <br>
+  <a href="https://www.codecademy.com/profiles/Antonio3127/certificates/1e862f2e780818ebfc52948a80e5b77c" target="_blank">
+    <img src="https://img.shields.io/badge/Codecademy_Certified-Codecademy-10162F?style=for-the-badge&logo=codecademy&logoColor=3B82F6" />
+  </a>
+</p>
+
 ---
 
 ### 📈 GitHub Statistics
