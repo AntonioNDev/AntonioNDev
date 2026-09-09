@@ -1,8 +1,11 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Antonio%20Nikoloski&fontSize=70" width="100%" />
 
-  <h3>🚀 4th Year Computer Science Student at FINKI</h3>
-  <p><em>St. Cyril and Methodius University, Skopje</em></p>
+  <h3>Computer Science and Data Analysist</h3>
+  <p>
+    <em>studied at</em>
+    <em>St. Cyril and Methodius University, Skopje</em>
+  </p>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/antonio-nikoloski/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -14,7 +17,7 @@
 ---
 
 ### 🧑‍💻 About Me
-I am a passionate developer entering my final year of Computer Science. My focus lies at the intersection of **High-Performance Computing** and **Data Science**. I thrive on exploring emerging technologies and solving complex computational problems.
+I am a passionate developer. My focus lies at the intersection of **High-Performance Computing** and **Data Science**. I thrive on exploring emerging technologies and solving complex computational problems.
 
 * 🌍 Based in **Skopje, North Macedonia**.
 * 🔬 Currently researching **CUDA-driven parallelization** for genomic mutation detection
