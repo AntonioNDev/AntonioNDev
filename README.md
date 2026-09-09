@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Antonio%20Nikoloski&fontSize=70" width="100%" />
 
-  <h3>Computer Science and Data Analysist</h3>
+  <h3>Computer Science and Data Analyst</h3>
   <p>
     <em>studied at</em>
     <em>St. Cyril and Methodius University, Skopje</em>
@@ -28,32 +28,43 @@ I am a passionate developer. My focus lies at the intersection of **High-Perform
 
 ### 🛠️ Technical Stack
 
-**Languages & Frameworks**
+**Programming Languages & Frameworks**
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Web_Development-239120?style=flat-square&logo=w3c&logoColor=white" />
 </p>
 
-**Data Science & Tools**
+**Data Science & Databases**
 <p align="left">
-  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=python&logoColor=black" /> 
+  <img src="https://img.shields.io/badge/MATLAB-e20000?style=flat-square&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Analysis-FFCA28?style=flat-square&logo=databricks&logoColor=black" /> 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" />
+</p>
+
+**Soft Skills**
+<p align="left">
+  <img src="https://img.shields.io/badge/Problem_Solving-4CAF50?style=flat-square" />
+  <img src="https://img.shields.io/badge/Analytical_Thinking-2196F3?style=flat-square" />
+  <img src="https://img.shields.io/badge/Adaptability-FF9800?style=flat-square" />
+  <img src="https://img.shields.io/badge/Team_Collaboration-9C27B0?style=flat-square" />
+</p>
+
+**Spoken Languages**
+<p align="left">
+  <img src="https://img.shields.io/badge/Macedonian-Native-25292E?style=flat-square" />
+  <img src="https://img.shields.io/badge/English-Fluent-25292E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Serbian-Fluent-25292E?style=flat-square" />
+  <img src="https://img.shields.io/badge/French-Conversational-25292E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Russian-Conversational-25292E?style=flat-square" />
 </p>
 
 ---
 
 ### 📈 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=antoniondev&show_icons=true&theme=dracula&count_private=true&hide_border=true" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=antoniondev&layout=compact&theme=dracula&hide_border=true" height="170px" />
-</div>
 
 <br />
 
