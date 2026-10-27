@@ -77,16 +77,6 @@ I am a passionate developer. My focus lies at the intersection of **High-Perform
 
 ---
 
-### 📈 GitHub Statistics
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=antoniondev&theme=dracula&hide_border=true" />
-</div>
-
----
-
 <div align="center">
   <em>"Turning coffee into code and data into insights."</em>
 </div>
